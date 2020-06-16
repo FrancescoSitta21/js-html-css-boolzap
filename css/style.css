@@ -8,15 +8,18 @@
 /* fine reset */
 
 .green {
+  position: absolute;
   background: #02c39a;
   width: 100%;
   height: 150px;
 }
 
-.platform {
+#platform {
   position: absolute;
   width: 1050px;
   height: 750px;
   background: lightgrey;
   margin-left: 25%;
+  border: 1px solid black;
+  margin-top: 50px;
 }
