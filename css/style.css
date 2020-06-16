@@ -6,3 +6,17 @@
   font-family: 'Roboto', sans-serif;
 }
 /* fine reset */
+
+.green {
+  background: #02c39a;
+  width: 100%;
+  height: 150px;
+}
+
+.platform {
+  position: absolute;
+  width: 1050px;
+  height: 750px;
+  background: lightgrey;
+  margin-left: 25%;
+}
